@@ -1,0 +1,25 @@
+{
+	"name": "New project",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "ik4oo8q1yyt",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r268",
+	"ife": true,
+	"used-plugins": [
+		"Button",
+		"Text",
+		"TiledBg",
+		"Sprite"
+	],
+	"used-behaviors": [
+		"custom"
+	]
+}
